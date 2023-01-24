@@ -131,5 +131,5 @@ urlpatterns = [
 ![Home Page](./home.png)
 
 ## Result:
-The program for implementing server side processing is completed seccessfully.
+The program for implementing server side processing is completed seccessfully
 
